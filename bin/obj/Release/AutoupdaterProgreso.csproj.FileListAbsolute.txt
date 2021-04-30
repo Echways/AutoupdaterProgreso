@@ -1,0 +1,9 @@
+D:\VStudio\Projects\AutoupdaterProgreso\bin\bin\Release\Autoupdater.exe.config
+D:\VStudio\Projects\AutoupdaterProgreso\bin\bin\Release\Autoupdater.exe
+D:\VStudio\Projects\AutoupdaterProgreso\bin\bin\Release\Autoupdater.pdb
+D:\VStudio\Projects\AutoupdaterProgreso\bin\obj\Release\AutoupdaterProgreso.Form1.resources
+D:\VStudio\Projects\AutoupdaterProgreso\bin\obj\Release\AutoupdaterProgreso.Properties.Resources.resources
+D:\VStudio\Projects\AutoupdaterProgreso\bin\obj\Release\AutoupdaterProgreso.csproj.GenerateResource.cache
+D:\VStudio\Projects\AutoupdaterProgreso\bin\obj\Release\AutoupdaterProgreso.csproj.CoreCompileInputs.cache
+D:\VStudio\Projects\AutoupdaterProgreso\bin\obj\Release\Autoupdater.exe
+D:\VStudio\Projects\AutoupdaterProgreso\bin\obj\Release\Autoupdater.pdb

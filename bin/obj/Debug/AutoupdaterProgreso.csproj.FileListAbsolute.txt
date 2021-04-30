@@ -1,0 +1,11 @@
+D:\VStudio\Projects\AutoupdaterProgreso\bin\obj\Debug\AutoupdaterProgreso.Form1.resources
+D:\VStudio\Projects\AutoupdaterProgreso\bin\obj\Debug\AutoupdaterProgreso.Properties.Resources.resources
+D:\VStudio\Projects\AutoupdaterProgreso\bin\obj\Debug\AutoupdaterProgreso.csproj.GenerateResource.cache
+D:\VStudio\Projects\AutoupdaterProgreso\bin\obj\Debug\AutoupdaterProgreso.csproj.CoreCompileInputs.cache
+D:\VStudio\Projects\AutoupdaterProgreso\Autoupdater.exe.config
+D:\VStudio\Projects\AutoupdaterProgreso\bin\obj\Debug\Autoupdater.exe
+D:\VStudio\Projects\AutoupdaterProgreso\bin\obj\Debug\Autoupdater.pdb
+D:\VStudio\Projects\AutoupdaterProgreso\Autoupdater.exe
+D:\VStudio\Projects\AutoupdaterProgreso\Autoupdater.pdb
+D:\VStudio\Projects\AutoupdaterProgreso\bin\obj\Debug\AutoupdaterProgreso.csprojAssemblyReference.cache
+D:\VStudio\Projects\AutoupdaterProgreso\bin\obj\Debug\AutoupdaterProgreso.csproj.CopyComplete
